@@ -15,7 +15,6 @@ To create and display a **DataFrame** using the **Pandas** library in Python fro
 5. **Display Output**: Display the DataFrame using `print()` or by simply calling the DataFrame variable.
 
 ---
-
 ## 💻 Program
 ~~~
 import pandas as pd 
